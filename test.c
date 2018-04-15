@@ -4,7 +4,7 @@
 this is test git hhhhh
 
 
+git add test.c
 
-hhhhhhhhhhhhhhh
+git reset --hard HEAD^
 
-:
