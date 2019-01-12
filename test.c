@@ -17,7 +17,10 @@ git reset --hard HEAD^
 git checkout -- xxx
 
 git diff
-
+git diff --cached HEAD
 
 git rm  -rf xxx //删除远程库中的文件
 git commit -m "delete xxx"
+
+
+
