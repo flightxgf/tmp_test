@@ -5,6 +5,8 @@ this is test git hhhhh
 git config  --add --local 
 git add -u
 
+git fetch
+
 git init
 
 git config --global  user.name "flightxgf"
