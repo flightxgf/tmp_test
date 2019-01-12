@@ -1,6 +1,6 @@
 
 git push
-
+git merge
 this is test git hhhhh
 
 git config  --add --local 
