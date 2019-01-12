@@ -1,8 +1,9 @@
 
 
-
 this is test git hhhhh
 
+git config  --add --local 
+git add -u
 
 git init
 
