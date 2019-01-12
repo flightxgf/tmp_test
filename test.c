@@ -1,4 +1,6 @@
 
+git pull
+
 git push
 
 this is test git hhhhh
